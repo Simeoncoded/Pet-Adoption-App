@@ -1,0 +1,82 @@
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\App.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\AdoptionDetailPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\AdoptionPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\HomePage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\MainPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\MapPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\PetDetailPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\PetPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Pet Adoption WebAPI Client.xr.xml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Pet Adoption WebAPI Client.exe
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Pet Adoption WebAPI Client.pdb
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\resources.pri
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\AppxManifest.xml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Core\AppxManifest.xml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Core\Pet Adoption WebAPI Client.exe
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Pet Adoption WebAPI Client.build.appxrecipe
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Newtonsoft.Json.Bson.dll
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Newtonsoft.Json.Bson.pdb
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\System.Runtime.dll
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\Pet Adoption WebAPI Client.csproj.AssemblyReference.cache
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\App.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\App.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionDetailPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionDetailPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\HomePage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\HomePage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MainPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MainPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MapPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MapPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetDetailPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetDetailPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetPage.g.i.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetPage.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\App.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionDetailPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\HomePage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MainPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MapPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetDetailPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetPage.xaml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\App.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionDetailPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\AdoptionPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\HomePage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MainPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MapPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetDetailPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\PetPage.xbf
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\Pet Adoption WebAPI Client.csproj.CoreCompileInputs.cache
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\Pet Adop.659FF847.Up2Date
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\Pet Adoption WebAPI Client.exe
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\Pet Adoption WebAPI Client.pdb
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\ResourceHandlingTask.state
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\priconfig.xml
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\priconfig.xml.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\filtered.layout.resfiles
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\excluded.layout.resfiles
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\resources.resfiles
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\resources.resfiles.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\pri.resfiles
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\pri.resfiles.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\qualifiers.txt
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\ProjectArchitectures.txt
+C:\Pet Adoption WebAPI Client\Pet Adoption WebAPI Client\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json

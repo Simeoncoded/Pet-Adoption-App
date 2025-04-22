@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Pet_Adoption_WebAPI_Client.MapPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <maps:MapControl x:Name="MyMap"
+                 HorizontalAlignment="Stretch"
+                 VerticalAlignment="Stretch"
+                 ZoomInteractionMode="GestureAndControl"
+                 TiltInteractionMode="GestureAndControl"
+                 DesiredPitch="0"
+                 MapElementClick="MyMap_MapElementClick" />
+    </Grid>
+</Page>

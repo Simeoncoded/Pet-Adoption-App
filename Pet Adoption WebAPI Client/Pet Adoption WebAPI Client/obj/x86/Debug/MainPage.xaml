@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Pet_Adoption_WebAPI_Client.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pet_Adoption_WebAPI_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <NavigationView x:ConnectionId='2' Name="navMainNav"                                      IsSettingsVisible="False">
+            <NavigationView.MenuItems>
+                <NavigationViewItem Icon="Home" Content="Home"/>
+                <NavigationViewItem Icon="People" Content="Pets"/>
+                <NavigationViewItem Icon="Calendar" Content="Adoptions"/>
+                <NavigationViewItem Icon="Map" Content="Adoption Centre"/>
+            </NavigationView.MenuItems>
+            <Frame x:ConnectionId='3' x:Name="frmMainArea">
+                
+            </Frame>
+        </NavigationView>
+    </Grid>
+</Page>
+

@@ -1,0 +1,87 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="Pet_Adoption_WebAPI_Client.PetDetailPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pet_Adoption_WebAPI_Client"
+    xmlns:utilities="using:Pet_Adoption_WebAPI_Client.Utilities"
+    xmlns:converters="using:Pet_Adoption_WebAPI_Client.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <converters:ByteToStringConverter x:Key="ByteToStringConverter"/>
+    </Page.Resources>
+    <ScrollViewer>
+        <Grid x:ConnectionId='2' x:Name="LayoutRoot">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Margin="0,12,0,6">
+                <TextBlock Text="Pet Adoption" FontSize="30" FontWeight="Bold" Foreground="#4CAF50" Margin="12,0,0,0"/>
+                <TextBlock x:ConnectionId='15' x:Name="txtPageTitle"                              FontSize="20" Margin="13,3,0,3" />
+                <Rectangle Fill="#FFF4F4F5" Height="1" Stroke="Black" HorizontalAlignment="Stretch" Margin="0,2,0,2"/>
+            </StackPanel>
+
+            <Grid x:ConnectionId='3' x:Name="ContentPanel" Grid.Row="1" Margin="10,0,10,0">
+                <Grid x:ConnectionId='4' Name="petDisplayGrid">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    
+                    <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Pet Name" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <TextBox x:ConnectionId='5' Grid.Row="0" Grid.Column="1" Height="30" Name="nameTextBox" MaxLength="50"                                        AcceptsReturn="False" Margin="0,10,10,0" Padding="5"/>
+
+                   
+                    <TextBlock Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Species" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <TextBox x:ConnectionId='6' Grid.Row="0" Grid.Column="3" Height="30" Name="speciesTextBox" MaxLength="50"                                           AcceptsReturn="True" Margin="0,10,10,0" Padding="5"/>
+
+                
+                    <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Breed" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <TextBox x:ConnectionId='7' Grid.Row="1" Grid.Column="1" Height="30" Name="breedTextBox" MaxLength="50"                                         AcceptsReturn="True" Margin="0,10,10,0" Padding="5"/>
+
+                    <TextBlock Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Pet Age" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <TextBox x:ConnectionId='8' Grid.Row="1" Grid.Column="3" Height="30" Name="ageTextBox"                                       AcceptsReturn="False" InputScope="Number" Margin="0,10,10,0" Padding="5"/>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Pet Type" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <ComboBox x:ConnectionId='9' Grid.Row="2" Grid.Column="1" Name="petTypeComboBox"                                                                                                        Margin="0,10,10,0"/>
+
+                    <TextBlock Grid.Row="2" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Adoption Status" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <CheckBox x:ConnectionId='10' Grid.Row="2" Grid.Column="3" Height="30" Name="adoptedCheckBox"                                                                       Margin="0,10,10,0"/>
+                    
+                    <TextBlock Grid.Row="3" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Text="Description" Margin="0,0,10,0" FontWeight="Bold"/>
+                    <TextBox x:ConnectionId='11' Grid.Row="3" Grid.Column="1" Height="100" Name="descriptionTextBox"                                               Margin="0,10,10,0" Padding="5"/>
+
+                    <RelativePanel Grid.Row="4" Grid.ColumnSpan="4" Margin="0,10,0,10">
+                        <Button x:ConnectionId='12' x:Name="btnDelete" Content="Delete" RelativePanel.LeftOf="btnSave"                         Margin="6,6,0,6" 
+                            Background="#E57373" Foreground="White" BorderBrush="Transparent"  Padding="10,5" FontWeight="Bold"/>
+                        <Button x:ConnectionId='13' x:Name="btnSave" Content="Save" RelativePanel.AlignHorizontalCenterWithPanel="True"                       Margin="6,6,6,6" 
+                            Background="#4CAF50" Foreground="White" BorderBrush="Transparent" Padding="10,5" FontWeight="Bold"/>
+                        <Button x:ConnectionId='14' x:Name="btnCancel" Content="Cancel" RelativePanel.RightOf="btnSave"                         Margin="0,6,6,6" 
+                            Background="#BDBDBD" Foreground="White" BorderBrush="Transparent"  Padding="10,5" FontWeight="Bold"/>
+                    </RelativePanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+
+</Page>
+

@@ -1,0 +1,240 @@
+[
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.AdoptionController",
+    "Method": "GetAdoptions",
+    "RelativePath": "api/Adoption",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PetAdoption_WebApi.Models.AdoptionDTO, PetAdoption_WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.AdoptionController",
+    "Method": "PostAdoption",
+    "RelativePath": "api/Adoption",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adoptionDTO",
+        "Type": "PetAdoption_WebApi.Models.AdoptionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoption_WebApi.Models.Adoption",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.AdoptionController",
+    "Method": "GetAdoption",
+    "RelativePath": "api/Adoption/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoption_WebApi.Models.AdoptionDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.AdoptionController",
+    "Method": "PutAdoption",
+    "RelativePath": "api/Adoption/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "adoptionDTO",
+        "Type": "PetAdoption_WebApi.Models.AdoptionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.AdoptionController",
+    "Method": "DeleteAdoption",
+    "RelativePath": "api/Adoption/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "GetPets",
+    "RelativePath": "api/Pet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PetAdoption_WebApi.Models.PetDTO, PetAdoption_WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "PostPet",
+    "RelativePath": "api/Pet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "petDTO",
+        "Type": "PetAdoption_WebApi.Models.PetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoption_WebApi.Models.Pet",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "GetPet",
+    "RelativePath": "api/Pet/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PetAdoption_WebApi.Models.PetDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "PutPet",
+    "RelativePath": "api/Pet/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "petDTO",
+        "Type": "PetAdoption_WebApi.Models.PetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "DeletePet",
+    "RelativePath": "api/Pet/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetAdoption_WebApi.Controllers.PetController",
+    "Method": "GetAvailablePets",
+    "RelativePath": "api/Pet/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PetAdoption_WebApi.Models.PetDTO, PetAdoption_WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
