@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHlpVVwWcHkIzkX7NWH3bqiC3Sj5fY6o1P/UAKD/qz4=",
+  "Source": "PetAdoption_WebApi",
+  "BasePath": "_content/PetAdoption_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
